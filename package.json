@@ -1,0 +1,12 @@
+{
+  "name": "noir-analytics",
+  "version": "1.0.0",
+  "description": "On-chain analytics dashboard in dark theme",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "mupoiyu",
+  "license": "MIT"
+}
